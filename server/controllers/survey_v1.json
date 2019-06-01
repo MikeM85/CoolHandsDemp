@@ -1,0 +1,32 @@
+{
+  "z_fashion_v1" :
+  [
+    {
+      "number": 1,
+      "type": "radio",
+      "text": "Name",
+      "possible_answers": 
+      [""
+      ] 
+      
+    },
+    {
+      "number": 2,
+      "type": "radio",
+      "text": "email",
+      "possible_answers": 
+      [
+        ""
+      ] 
+    },
+    {
+      "number": 3,
+      "type": "radio",
+      "text": "order",
+      "possible_answers": 
+      [
+        ""
+      ]
+    }
+  ]
+}
